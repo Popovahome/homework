@@ -1,9 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fa89762c-53e7-403d-9279-db001835aaf4" name="Default Changelist" comment="">
+    <list default="true" id="23019d12-6181-40bf-a8b2-b047748e1b48" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Loops.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/loops/loop1/Main.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/loop1/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../projectLine2" beforeDir="false" afterPath="$PROJECT_DIR$/../projectLine2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loop4/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/production/Loops/loop1/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/production/Loops/loop4/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter1/Chapter1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Chapter1/Chapter1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/loops/loop1/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/loops/loop1/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/loop1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/loop1/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
