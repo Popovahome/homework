@@ -2,25 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="23019d12-6181-40bf-a8b2-b047748e1b48" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Loops.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/loops/loop1/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/loop1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/loop4/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../out/production/Loops/loop1/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../out/production/Loops/loop4/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loop_del/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Chapter1/Chapter1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Chapter1/Chapter1.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/loops/loop1/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/loops/loop1/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/loop1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/loop1/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +42,33 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Main (1)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="loop_sum.Main" />
+      <module name="loops" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="loop_sum.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="loop_del.Main" />
+      <module name="loops" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="loop_del.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="loop1.Main" />
       <module name="loops" />
@@ -73,6 +84,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -94,7 +107,7 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="fa89762c-53e7-403d-9279-db001835aaf4" name="Default Changelist" comment="" />
+      <changelist id="23019d12-6181-40bf-a8b2-b047748e1b48" name="Default Changelist" comment="" />
       <created>1602057426734</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -111,25 +124,25 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="225" y="118" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1602059353141" />
-    <state width="1095" height="281" key="GridCell.Tab.0.bottom" timestamp="1602060613092">
+    <state width="1191" height="275" key="GridCell.Tab.0.bottom" timestamp="1604322312087">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1095" height="281" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1602060613092" />
-    <state width="1095" height="281" key="GridCell.Tab.0.center" timestamp="1602060613092">
+    <state width="1191" height="275" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1604322312087" />
+    <state width="1191" height="275" key="GridCell.Tab.0.center" timestamp="1604322312087">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1095" height="281" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1602060613092" />
-    <state width="1095" height="281" key="GridCell.Tab.0.left" timestamp="1602060613092">
+    <state width="1191" height="275" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1604322312087" />
+    <state width="1191" height="275" key="GridCell.Tab.0.left" timestamp="1604322312087">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1095" height="281" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1602060613092" />
-    <state width="1095" height="281" key="GridCell.Tab.0.right" timestamp="1602060613092">
+    <state width="1191" height="275" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1604322312087" />
+    <state width="1191" height="275" key="GridCell.Tab.0.right" timestamp="1604322312087">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1095" height="281" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1602060613092" />
-    <state x="927" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1602057430934">
+    <state width="1191" height="275" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1604322312087" />
+    <state x="927" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1604318747865">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="927" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1602057430934" />
+    <state x="927" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1604318747865" />
   </component>
 </project>
